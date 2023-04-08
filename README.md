@@ -1,3 +1,4 @@
 # Swan
 Assignment of COP290
-Initial
+
+By Gaurav, Mayank, Rupayan, Shubham
